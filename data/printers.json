@@ -1,1 +1,47 @@
+[
+  {
+    "id": 1,
+    "nome": "Creality Ender 3 V3",
+    "filamentos": ["PLA", "PETG", "TPU"],
+    "software_especifico": "https://www.creality.com/goods-detail/ender-3-v3-se",
+    "softwares_genericos": [
+      {"nome": "Cura", "link": "https://ultimaker.com/software/ultimaker-cura"},
+      {"nome": "PrusaSlicer", "link": "https://www.prusa3d.com/prusaslicer/"}
+    ],
+    "imagem": "https://cdn.pixabay.com/photo/3d-printer-ender3.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Anycubic Vyper",
+    "filamentos": ["PLA", "PETG", "ABS"],
+    "software_especifico": "https://www.anycubic.com/products/anycubic-vyper-3d-printer",
+    "softwares_genericos": [
+      {"nome": "Cura", "link": "https://ultimaker.com/software/ultimaker-cura"},
+      {"nome": "PrusaSlicer", "link": "https://www.prusa3d.com/prusaslicer/"}
+    ],
+    "imagem": "https://cdn.pixabay.com/photo/3d-printer-anycubic.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Artillery Sidewinder X2",
+    "filamentos": ["PLA", "PETG", "TPU"],
+    "software_especifico": "https://www.artillery3d.com/products/sidewinder-x2",
+    "softwares_genericos": [
+      {"nome": "Cura", "link": "https://ultimaker.com/software/ultimaker-cura"},
+      {"nome": "PrusaSlicer", "link": "https://www.prusa3d.com/prusaslicer/"}
+    ],
+    "imagem": "https://cdn.pixabay.com/photo/3d-printer-artillery.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Bambu Lab X1",
+    "filamentos": ["PLA", "PETG", "ASA", "TPU"],
+    "software_especifico": "https://www.bambulab.com/pages/download",
+    "softwares_genericos": [
+      {"nome": "Cura", "link": "https://ultimaker.com/software/ultimaker-cura"},
+      {"nome": "PrusaSlicer", "link": "https://www.prusa3d.com/prusaslicer/"}
+    ],
+    "imagem": "https://cdn.pixabay.com/photo/3d-printer-bambulab.jpg"
+  }
+]
 
