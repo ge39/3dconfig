@@ -1,1 +1,45 @@
+[
+  {
+    "id": 1,
+    "nome": "Econômico",
+    "filamentos": {
+      "PLA": {"camada":"0.24mm","preenchimento":"10%","velocidade":"60mm/s","temperatura":"200°C"},
+      "PETG": {"camada":"0.24mm","preenchimento":"15%","velocidade":"55mm/s","temperatura":"235°C"},
+      "TPU": {"camada":"0.28mm","preenchimento":"10%","velocidade":"30mm/s","temperatura":"220°C"},
+      "ABS": {"camada":"0.24mm","preenchimento":"10%","velocidade":"50mm/s","temperatura":"240°C"},
+      "ASA": {"camada":"0.24mm","preenchimento":"15%","velocidade":"50mm/s","temperatura":"245°C"}
+    },
+    "descricao": "Ideal para protótipos ou testes rápidos.",
+    "pros": ["Impressão rápida", "Consome pouco filamento", "Ótimo para testes"],
+    "cons": ["Menor qualidade de detalhe", "Peça menos resistente"]
+  },
+  {
+    "id": 2,
+    "nome": "Detalhe",
+    "filamentos": {
+      "PLA": {"camada":"0.12mm","preenchimento":"20%","velocidade":"40mm/s","temperatura":"200°C"},
+      "PETG": {"camada":"0.12mm","preenchimento":"25%","velocidade":"35mm/s","temperatura":"235°C"},
+      "TPU": {"camada":"0.18mm","preenchimento":"15%","velocidade":"25mm/s","temperatura":"220°C"},
+      "ABS": {"camada":"0.12mm","preenchimento":"20%","velocidade":"40mm/s","temperatura":"240°C"},
+      "ASA": {"camada":"0.12mm","preenchimento":"25%","velocidade":"40mm/s","temperatura":"245°C"}
+    },
+    "descricao": "Alta precisão para peças detalhadas e modelos complexos.",
+    "pros": ["Qualidade de impressão superior", "Detalhes precisos"],
+    "cons": ["Mais lento", "Consome mais filamento"]
+  },
+  {
+    "id": 3,
+    "nome": "Resistente",
+    "filamentos": {
+      "PLA": {"camada":"0.20mm","preenchimento":"50%","velocidade":"50mm/s","temperatura":"200°C"},
+      "PETG": {"camada":"0.20mm","preenchimento":"60%","velocidade":"45mm/s","temperatura":"235°C"},
+      "TPU": {"camada":"0.24mm","preenchimento":"40%","velocidade":"30mm/s","temperatura":"220°C"},
+      "ABS": {"camada":"0.20mm","preenchimento":"50%","velocidade":"45mm/s","temperatura":"240°C"},
+      "ASA": {"camada":"0.20mm","preenchimento":"60%","velocidade":"45mm/s","temperatura":"245°C"}
+    },
+    "descricao": "Peças funcionais, sólidas e duráveis para uso final.",
+    "pros": ["Peças resistentes", "Adequado para uso funcional"],
+    "cons": ["Mais filamento usado", "Impressão mais lenta"]
+  }
+]
 
