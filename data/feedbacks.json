@@ -1,1 +1,9 @@
+[
+  {"printerId":1,"profileId":1,"filamento":"PLA","usuario":"João","comentario":"Rápido e econômico, mas as peças ficaram fracas."},
+  {"printerId":1,"profileId":2,"filamento":"PLA","usuario":"Maria","comentario":"Detalhes incríveis, perfeito para miniaturas."},
+  {"printerId":2,"profileId":3,"filamento":"ABS","usuario":"Carlos","comentario":"Peças super resistentes, mas levou mais tempo."}
+  {"printerId":4,"profileId":2,"filamento":"PLA","usuario":"Ana","comentario":"Detalhes impressionantes, perfeita para miniaturas."},
+  {"printerId":4,"profileId":3,"filamento":"ASA","usuario":"Pedro","comentario":"Peças resistentes, ideal para uso funcional."}
+
+]
 
